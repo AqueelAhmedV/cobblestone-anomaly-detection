@@ -55,7 +55,7 @@ This project uses a window size of 5 and a false alarm probability (q) of 1e-4 f
 
 The anomaly detection system's performance can be visualized in the following image:
 
-![Anomaly Detection Results](result.jpg)
+![Anomaly Detection Results](result.png)
 
 This graph shows the original data stream, the smoothed data, and the detected anomalies. The red points indicate the anomalies identified by the SPOT algorithm, while the blue line represents the smoothed data used for detection.
 
