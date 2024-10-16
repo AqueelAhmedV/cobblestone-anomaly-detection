@@ -57,7 +57,7 @@ The anomaly detection system's performance can be visualized in the following im
 
 ![Anomaly Detection Results](result.png)
 
-This graph shows the original data stream, the smoothed data, and the detected anomalies. The red points indicate the anomalies identified by the SPOT algorithm, while the blue line represents the smoothed data used for detection.
+This graph shows the original data stream, the smoothed data, and the detected anomalies. The blue points indicate the anomalies identified by the SPOT algorithm, while the red points represents the actual anomalies determined during generation.
 
 Key performance metrics:
 - Precision: 0.5025
